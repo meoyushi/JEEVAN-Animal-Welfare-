@@ -158,5 +158,5 @@ Please fork the repo, make your changes, and submit a PR.
 
 ## 📄 License
 
-**IIITDMJ © 2025 Jeevan Project** — All rights reserved.
+**IIITDMJ © 2026 Jeevan Project** — All rights reserved.
 
