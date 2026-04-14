@@ -4,38 +4,31 @@ import { AnimatedTooltip } from "@/components/ui/animated-tooltip";
 const people = [
   {
     id: 1,
-    name: "Harshil Khandelwal",
-    designation: "IIIT Jabalpur - CSE '27",
-    image:
-      "/Harshil.jpg",
-  },
-  {
-    id: 2,
     name: "Devansh Singh",
-    designation: "IIIT Jabalpur - CSE '27",
+    designation: "CSE '27",
     image:
       "/Devansh.jpg",
   },
   {
-    id: 3,
-    name: "Harshit Raj",
-    designation: "IIIT Jabalpur - CSE '27",
+    id: 2,
+    name: "Aayushi Thakre",
+    designation: "CSE '27",
     image:
-      "/Harshit.jpg",
+      "/Aayushi.jpg",
+  },
+  {
+    id: 3,
+    name: "Ria Amit Singh",
+    designation: "BDES '27",
+    image:
+      "/Ria.jpg",
   },
   {
     id: 4,
-    name: "Krishan Veer Singh",
-    designation: "IIIT Jabalpur - CSE '27",
+    name: "Rohit Gaikwad",
+    designation: "BDES '27",
     image:
-      "/Krishna.jpeg",
-  },
-  {
-    id: 5,
-    name: "Ishwari Maske",
-    designation: "IIIT Jabalpur - CSE '27",
-    image:
-      "/Ishwari.jpg",
+      "/Rohit.jpg",
   },
 ];
 
