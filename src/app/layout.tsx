@@ -5,6 +5,7 @@ import "./globals.css";
 import 'mapbox-gl/dist/mapbox-gl.css';
 import ClientWrapper from "./_components/ClientWrapper/ClientWrapper";
 import { Toaster } from "@/components/ui/sonner"
+import { Analytics } from '@vercel/analytics/next';
 
 
 const geistSans = Geist({
@@ -34,6 +35,7 @@ export default function RootLayout({
           {children}
           <Toaster />
         </ClientWrapper>
+        <Analytics />
       </body>
     </html>
   );
